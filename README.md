@@ -2,7 +2,7 @@
 I'm a Data Scientist, with a passion for solving problems and finding solutions to complex situations through the use of data. I have a deep passion for Machine Learning and AI and all things data. 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tyron-lambrechts-30ab87214) 
 
 # 💻 Tech Stack:
