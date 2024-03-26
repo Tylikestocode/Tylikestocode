@@ -12,7 +12,6 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 <a href='https://github.com/Tylikestocode/SASL_Translation.git'>SASL Translation Project</a>
 
 # Repos: 
-### NLP-Projects
-### Computer Vision Projects
 ### Machine Learning Projects
 ### Data Analysis Projects
+### R Projects
