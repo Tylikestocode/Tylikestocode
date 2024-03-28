@@ -11,7 +11,10 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 # 📊 Projects: 
 ### Machine Learning Projects
 
-South Africa Sign Language Translation Project (SASL) : <a href='https://github.com/Tylikestocode/SASL_Translation.git'>SASL Translation Project</a>
-Boston House Price Regression : <a href='https://github.com/Tylikestocode/Boston_House_Price_Regression.git'>Boston House Price Regression</a>
+#### South Africa Sign Language Translation Project (SASL) : 
+<a href='https://github.com/Tylikestocode/SASL_Translation.git'>SASL Translation Project</a>
+#### Boston House Price Regression : 
+<a href='https://github.com/Tylikestocode/Boston_House_Price_Regression.git'>Boston House Price Regression</a>
+
 ### Data Analysis Projects
 ### R Projects
