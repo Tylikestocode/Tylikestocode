@@ -15,5 +15,7 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 ### Machine Learning Projects
 #### South African Sign Language Translation (SASL)
 <a href='https://github.com/Tylikestocode/SASL_Translation.git'>SASL Translation Project</a>
+#### Boston House Price Regression 
+
 ### Data Analysis Projects
 ### R Projects
