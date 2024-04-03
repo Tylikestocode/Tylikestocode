@@ -13,7 +13,7 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 <a href='https://github.com/Tylikestocode/Machine-Learning-Projects.git'>Machine Learning Repo</a>
 
 #### Data Analysis Repository:
-<a href='https://github.com/Tylikestocode/Machine-Learning-Projects.git'>Machine Learning Repo</a>
+<a href='https://github.com/Tylikestocode/Data_Analysis_Projects.git'>Data Analysis Repo</a>
 
 # 📊 Projects: 
 ### Machine Learning Projects
