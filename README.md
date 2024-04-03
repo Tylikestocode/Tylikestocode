@@ -10,6 +10,7 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 
 # 💻 Repositories:
 #### Machine Learning Repository:
+<a href='https://github.com/Tylikestocode/Machine-Learning-Projects.git'>Machine Learning Repo</a>
 
 #### Data Analysis Repository:
 
