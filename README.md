@@ -16,7 +16,7 @@ I'm a Data Scientist, with a passion for solving problems and finding solutions 
 <a href='https://github.com/Tylikestocode/Data_Analysis_Projects.git'>Data Analysis Repo</a>
 
 #### Computer Vision Repository:
-<a href=''>
+<a href='https://github.com/Tylikestocode/Computer_Vision_Projects.git'>Computer Vision Repo</a>
 
 # 📊 Big Projects: 
 
