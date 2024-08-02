@@ -15,7 +15,7 @@
 # Repositories:
 
 <a href='https://github.com/Tylikestocode/Machine-Learning.git'>Machine Learning</a></br>
-<a href=''>Data Analysis</a>
+<a href='https://github.com/Tylikestocode/Data-Analysis.git'>Data Analysis</a>
 
 
 # 💻 Tech Stack:
